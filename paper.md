@@ -2,9 +2,9 @@
 Modeling patterns of behaviour in garden gnomes whilst guarding human hearts
 
 #Author
-Cristina Perez-Becerril
+Cristina Perez-Becerril, University of Manchester
 #Co-Author
-Gnomeo Monague
+Gnomeo Monague, University of Gnomes
 
 #Introduction
 There once was a lady who had a garden gnome
