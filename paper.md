@@ -2,9 +2,10 @@
 Modeling patterns of behaviour in garden gnomes whilst guarding human hearts
 
 #Author
-Gnomeo Monague
-#Co-Author
 Cristina Perez-Becerril
+
+#Co-Author
+Gnomeo Monague
 
 #Introduction
 There once was a lady who had a garden gnome
