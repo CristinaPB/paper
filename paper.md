@@ -14,3 +14,6 @@ She came out one day and gave her heart to the gnome as other people had done be
 Jones et al (1998) demonstrated that when giving your heart to a garden gnome it is important to advice them on how to handle it.
 
 Garden gnomes may not be reliable guardians of hearts. Therefore assessing incidence of heartbreak for garden gnomes is important.
+
+# Methodology
+We observed 13590 people with garden gnomes who have given them their harts. Observations were made following a previosly described methodology (Smith et al., 2002)
