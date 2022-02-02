@@ -1,5 +1,5 @@
 # Title
-Incidence of heartbreak in garden gnomes
+Modeling patterns of behaviour in garden gnomes whilst guarding human hearts
 
 #Author
 Cristina Perez-Becerril
