@@ -6,6 +6,8 @@ Cristina Perez-Becerril
 
 #Co-Author
 Gnomeo Monague
+# Abstract
+Garden gnomes have bad reputation when it comes to looking after people's harts 
 
 #Introduction
 There once was a lady who had a garden gnome
