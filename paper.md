@@ -17,3 +17,6 @@ Garden gnomes may not be reliable guardians of hearts. Therefore assessing incid
 
 # Methodology
 We observed 13590 people with garden gnomes who have given them their harts. Observations were made following a previosly described methodology (Smith et al., 2002)
+
+# Results
+Around 90% of garden gnomes broke the heart that had been given to them. Around 50% of those who broke hearts tried to repair them. Around 30% managed to replaced them with false hearts. All garden gnomes who broke hearts were thrown out or discarded
