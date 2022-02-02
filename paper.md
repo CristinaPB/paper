@@ -28,3 +28,6 @@ Figures and legends for paper
 # Conclusions
 
 Do not give your heart to a garden gnome
+
+# Acknowledgments 
+We would like to thank E. Sharp for inspiring this study and providing materials.
